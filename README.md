@@ -4,7 +4,7 @@ Dashboard executivo e automação em Python para análise de descarga de granéi
 
 ## Acesse o Dashboard
 
-[Clique aqui para navegar no dashboard interativo](https://rawcdn.githack.com/fabricionettto-commits/Terminal_Granel_S-OP/a4d55945972653ee14570ae87237d9ce3da184c3/index.html)
+[Clique aqui para navegar no dashboard interativo](https://fabricionettto-commits.github.io/Terminal_Granel_S-OP/)
 
 ![Dashboard Terminal Granel](index.html.png)
 
