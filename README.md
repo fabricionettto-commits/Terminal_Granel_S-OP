@@ -2,6 +2,10 @@
 
 Dashboard executivo e automação em Python para análise de descarga de granéis, com foco em S&OP, produtividade por ponto operacional, performance de turnos/equipes e leitura das perdas por variação de ritmo.
 
+## Acesse o Dashboard
+
+[Clique aqui para navegar no dashboard interativo](https://raw.githack.com/fabricionettto-commits/Terminal_Granel_S-OP/main/index.html)
+
 ![Dashboard Terminal Granel](index.html.png)
 
 ## Visão de Operações
